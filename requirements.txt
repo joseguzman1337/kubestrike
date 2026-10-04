@@ -7,5 +7,5 @@ SelectMenu
 pyfiglet==1.0.4
 PyYAML==6.0.3
 requests==2.32.5
-urllib3==2.6.3
+urllib3==2.8.0
 websocket-client==1.9.0
